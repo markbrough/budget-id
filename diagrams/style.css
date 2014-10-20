@@ -1,0 +1,40 @@
+body {
+  font-family: "Trebuchet MS", sans;
+  }
+.header h1 {
+  text-align:center;
+  margin-bottom:0px;
+}
+.container {
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  }
+#chart {
+  width: 1000px;
+  height: 500px;
+  }
+#chart svg {
+  height:800px !important;
+}
+.node rect {
+  cursor: move;
+  fill-opacity: .9;
+  shape-rendering: crispEdges;
+}
+.node text {
+  pointer-events: none;
+  text-shadow: 0 1px 0 #fff;
+}
+.link {
+  fill: none;
+  stroke: #000;
+  stroke-opacity: .2;
+}
+.link:hover, .selected {
+  stroke-opacity: .5;
+}
+.clearer {
+  margin-top:100px;
+  clear:both;
+}

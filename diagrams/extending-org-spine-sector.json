@@ -1,0 +1,1079 @@
+{
+
+    "drilldown": [
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 604175615.457393,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Education",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-3",
+                "name": "5-3"
+            },
+            "num_entries": 56
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 508595560.687872,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "accountability",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-3",
+                "name": "1-3"
+            },
+            "num_entries": 144
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 293713001.369424,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Education",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-1",
+                "name": "5-1"
+            },
+            "num_entries": 46
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 280773373.71692,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Education",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-1",
+                "name": "5-1"
+            },
+            "num_entries": 87
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 259022078,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Not mapped",
+                "id": 12,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/not-mapped",
+                "name": "not-mapped"
+            },
+            "num_entries": 115
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 182225548.861167,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Education",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-3",
+                "name": "5-3"
+            },
+            "num_entries": 33
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 164478306,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Energy",
+                "id": 20,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-6",
+                "name": "3-6"
+            },
+            "num_entries": 90
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 146474803.954143,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Microfinance and financial services",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-1",
+                "name": "3-1"
+            },
+            "num_entries": 86
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 137598039.562893,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Other general services",
+                "id": 5,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-7",
+                "name": "1-7"
+            },
+            "num_entries": 83
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 134173984.11564,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Water supply and sanitation",
+                "id": 16,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/4-1",
+                "name": "4-1"
+            },
+            "num_entries": 17
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 117920987.753205,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Industry",
+                "id": 19,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-9",
+                "name": "3-9"
+            },
+            "num_entries": 10
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 92835796.710216,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "agriculture",
+                "id": 15,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-3",
+                "name": "3-3"
+            },
+            "num_entries": 18
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 88376579.753616,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Social Protection, Land, Housing and Community Amenities",
+                "id": 13,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-4",
+                "name": "5-4"
+            },
+            "num_entries": 62
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 81376140.9910681,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "External affairs",
+                "id": 7,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-4",
+                "name": "1-4"
+            },
+            "num_entries": 75
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 65674309.8657996,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Not mapped",
+                "id": 12,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/not-mapped",
+                "name": "not-mapped"
+            },
+            "num_entries": 9
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 48316558,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Justice, Law and Order",
+                "id": 10,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/2-1",
+                "name": "2-1"
+            },
+            "num_entries": 68
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 48136817.749356,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "transport",
+                "id": 9,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-8",
+                "name": "3-8"
+            },
+            "num_entries": 41
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 41558754.4,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Other general services",
+                "id": 5,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-7",
+                "name": "1-7"
+            },
+            "num_entries": 106
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 40605030,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Education",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-1",
+                "name": "5-1"
+            },
+            "num_entries": 44
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 37194524.6,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Microfinance and financial services",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-1",
+                "name": "3-1"
+            },
+            "num_entries": 69
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 33514405.803228,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Justice, Law and Order",
+                "id": 10,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/2-1",
+                "name": "2-1"
+            },
+            "num_entries": 26
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 30982387.3580181,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Microfinance and financial services",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-1",
+                "name": "3-1"
+            },
+            "num_entries": 52
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 28393467.0265904,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Justice, Law and Order",
+                "id": 10,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/2-1",
+                "name": "2-1"
+            },
+            "num_entries": 60
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 28309282.52712,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Statistics",
+                "id": 18,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-6",
+                "name": "1-6"
+            },
+            "num_entries": 6
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 27125380.330356,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "General personnel services",
+                "id": 8,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-5",
+                "name": "1-5"
+            },
+            "num_entries": 25
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 27125380.330356,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "executive",
+                "id": 6,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-1",
+                "name": "1-1"
+            },
+            "num_entries": 25
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 22619237,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Education",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-3",
+                "name": "5-3"
+            },
+            "num_entries": 35
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 21442463.560266,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Environment",
+                "id": 14,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/4-2",
+                "name": "4-2"
+            },
+            "num_entries": 18
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 18411552.8,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "accountability",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-3",
+                "name": "1-3"
+            },
+            "num_entries": 107
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 16976820.871416,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Not mapped",
+                "id": 12,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/not-mapped",
+                "name": "not-mapped"
+            },
+            "num_entries": 9
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 13076053.2,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Elections",
+                "id": 11,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-8",
+                "name": "1-8"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 12310788,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Energy",
+                "id": 20,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-6",
+                "name": "3-6"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 11152803,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Recreation, Culture and Religion",
+                "id": 21,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-2",
+                "name": "5-2"
+            },
+            "num_entries": 36
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 11006854.2907477,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "accountability",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-3",
+                "name": "1-3"
+            },
+            "num_entries": 73
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 10787649,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Social Protection, Land, Housing and Community Amenities",
+                "id": 13,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-4",
+                "name": "5-4"
+            },
+            "num_entries": 109
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 9480970.80322,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "agriculture",
+                "id": 15,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-3",
+                "name": "3-3"
+            },
+            "num_entries": 7
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 9322222.88491424,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Other general services",
+                "id": 5,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-7",
+                "name": "1-7"
+            },
+            "num_entries": 38
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 5801952,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Elections",
+                "id": 11,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-8",
+                "name": "1-8"
+            },
+            "num_entries": 5
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 4991212.4255,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Water supply and sanitation",
+                "id": 16,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/4-1",
+                "name": "4-1"
+            },
+            "num_entries": 4
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 4759759.225872,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Forestry",
+                "id": 25,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-4",
+                "name": "3-4"
+            },
+            "num_entries": 4
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 4503485,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Statistics",
+                "id": 18,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-6",
+                "name": "1-6"
+            },
+            "num_entries": 1
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 4236975.85519236,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "External affairs",
+                "id": 7,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-4",
+                "name": "1-4"
+            },
+            "num_entries": 39
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 3332578.9,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Social Protection, Land, Housing and Community Amenities",
+                "id": 13,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/5-4",
+                "name": "5-4"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 2119790.3895,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Environment",
+                "id": 14,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/4-2",
+                "name": "4-2"
+            },
+            "num_entries": 4
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 1412325.28506412,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "General personnel services",
+                "id": 8,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-5",
+                "name": "1-5"
+            },
+            "num_entries": 13
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 1412325.28506412,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "executive",
+                "id": 6,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-1",
+                "name": "1-1"
+            },
+            "num_entries": 13
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 1412325.28506412,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "transport",
+                "id": 9,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-8",
+                "name": "3-8"
+            },
+            "num_entries": 13
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 1342038.53,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Elections",
+                "id": 11,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-8",
+                "name": "1-8"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 900697,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Mining and mineral development",
+                "id": 17,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-7",
+                "name": "3-7"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Other Department",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-99",
+                "name": "se-99"
+            },
+            "amount": 659089,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Not mapped",
+                "id": 12,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/not-mapped",
+                "name": "not-mapped"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 446302.6,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "External affairs",
+                "id": 7,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-4",
+                "name": "1-4"
+            },
+            "num_entries": 21
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 205032,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "legislative",
+                "id": 22,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-2",
+                "name": "1-2"
+            },
+            "num_entries": 9
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 148767.533333333,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "executive",
+                "id": 6,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-1",
+                "name": "1-1"
+            },
+            "num_entries": 7
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 148767.533333333,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "General personnel services",
+                "id": 8,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/1-5",
+                "name": "1-5"
+            },
+            "num_entries": 7
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 148767.533333333,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "transport",
+                "id": 9,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-8",
+                "name": "3-8"
+            },
+            "num_entries": 7
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 28340.431105,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Industry",
+                "id": 19,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-9",
+                "name": "3-9"
+            },
+            "num_entries": 1
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 23424,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Development Partner affairs",
+                "id": 24,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/6-1",
+                "name": "6-1"
+            },
+            "num_entries": 4
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Other Department",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-99",
+                "name": "se-99"
+            },
+            "amount": 0,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Industry",
+                "id": 19,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/3-9",
+                "name": "3-9"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 0,
+            "spine-sector": {
+                "taxonomy": "spine-sector",
+                "label": "Defence",
+                "id": 23,
+                "html_url": "https://openspending.org/iati-budgetid/spine-sector/2-2",
+                "name": "2-2"
+            },
+            "num_entries": 1
+        }
+    ],
+    "summary": {
+        "currency": {
+            "amount": "USD"
+        },
+        "amount": 3743297486.1473,
+        "num_drilldowns": 59,
+        "pagesize": 10000,
+        "pages": 1,
+        "num_entries": 2052,
+        "page": 1
+    }
+
+}

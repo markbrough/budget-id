@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IATI Budget ID Pilot - Common code: categories</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+  <script src="js/vendor/d3.v3.min.js"></script>
+  <script src="js/vendor/sankey.js"></script>
+  <script src="js/vendor/underscore-min.js"></script>
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/vendor/openspending/aggregator.js"></script>
+  <script src="js/vendor/os-sankey.js"></script>
+</head>
+<body>
+  <div class="header">
+    <h1>Donors' aid flows against Spine Category codes (Tanzania)</h1>
+  </div>
+  <div class="container">
+    <div id="chart">
+    </div>
+  </div>
+  <script>
+
+  var config={
+      siteUrl: 'http://openspending.org',
+      dataset: 'iati-budgetid',
+      drilldowns: ['extending-org','spine-category'],
+      cuts: [],
+      rootNodeLabel: 'Total',
+      measure: 'amount',
+      localApiCache: 'extending-org-category.json',
+      processEntry: function(e) { return e; },
+      callback: function (tree) {data=tree}
+    };
+
+  OpenSpending.sankey(config);
+  </script>
+</body>
+</html>
