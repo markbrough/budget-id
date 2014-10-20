@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IATI Budget ID Pilot - Common code: Spine</title>
+  <style type="text/css">
+    #chart {
+      margin-top:0px;
+      }
+  </style>
+  <script src="js/vendor/d3.v3.min.js"></script>
+  <script src="js/vendor/sankey.js"></script>
+  <script src="js/vendor/underscore-min.js"></script>
+  <script src="js/vendor/jquery.js"></script>
+  <script src="js/vendor/openspending/aggregator.js"></script>
+  <script src="js/vendor/os-sankey.js"></script>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+<body>
+  <div class="header">
+      <h1>Mapping donors' aid flows to the Spine</h1>
+  </div>
+  <div class="container">
+    <div id="chart">
+    </div>
+    <div class="clearer">
+    </div>
+    <div class="explanation">
+    <h2>Explanation</h2>
+    <p>This data is calculated from automatically mapping donors' sector codes
+       that are published in IATI against the Spine.</p>
+    <ul>
+        <li><b>No issue</b> &mdash; It was possible to automatically map this data
+        against a specific Spine code.</li>
+        <li><b>Multiple</b> &mdash; It was possible to automatically map this data
+        against the Spine, but it mapped to more than one code.</li>
+        <li><b>No spine code</b> &mdash; It was not possible to automatically map
+        this data against the Spine, because the sector code provided was too
+        high-level (e.g. <code>Sectors not specified</code> or 
+        <code>Multisector aid</code>).</li>
+    </ul>
+  </div>
+  <script>
+
+  var config={
+      siteUrl: 'http://openspending.org',
+      dataset: 'iati-budgetid',
+      drilldowns: ['extending-org','issue'],
+      cuts: [],
+      rootNodeLabel: 'Total',
+      measure: 'amount',
+	  localApiCache: 'extending-org-issue.json',
+      processEntry: function(e) { return e; },
+      callback: function (tree) {data=tree}
+    };
+
+  OpenSpending.sankey(config);
+  </script>
+</body>
+</html>

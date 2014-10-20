@@ -1,0 +1,215 @@
+{
+
+    "drilldown": [
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 1856936270.35888,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No issue",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-issue",
+                "name": "no-issue"
+            },
+            "num_entries": 241
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 564104570.723148,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "Multiple",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/issue/multiple",
+                "name": "multiple"
+            },
+            "num_entries": 505
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 490733092.460783,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No issue",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-issue",
+                "name": "no-issue"
+            },
+            "num_entries": 180
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 325505056,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No issue",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-issue",
+                "name": "no-issue"
+            },
+            "num_entries": 301
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 259022078,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No spine code",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-spine-code",
+                "name": "no-spine-code"
+            },
+            "num_entries": 115
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 87143826.8672833,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "Multiple",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/issue/multiple",
+                "name": "multiple"
+            },
+            "num_entries": 264
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Swedish International Development Cooperation Agency",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-6",
+                "name": "se-6"
+            },
+            "amount": 76542372.0000002,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "Multiple",
+                "id": 2,
+                "html_url": "https://openspending.org/iati-budgetid/issue/multiple",
+                "name": "multiple"
+            },
+            "num_entries": 424
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Canadian International Development Agency",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/ca-1",
+                "name": "ca-1"
+            },
+            "amount": 65674309.8657996,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No spine code",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-spine-code",
+                "name": "no-spine-code"
+            },
+            "num_entries": 9
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Department for International Development",
+                "id": 4,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/gb-1",
+                "name": "gb-1"
+            },
+            "amount": 16976820.871416,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No spine code",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-spine-code",
+                "name": "no-spine-code"
+            },
+            "num_entries": 9
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Other Department",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-99",
+                "name": "se-99"
+            },
+            "amount": 659089,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No spine code",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-spine-code",
+                "name": "no-spine-code"
+            },
+            "num_entries": 2
+        },
+        {
+            "extending-org": {
+                "taxonomy": "extending-org",
+                "label": "Other Department",
+                "id": 3,
+                "html_url": "https://openspending.org/iati-budgetid/extending-org/se-99",
+                "name": "se-99"
+            },
+            "amount": 0,
+            "issue": {
+                "taxonomy": "issue",
+                "label": "No issue",
+                "id": 1,
+                "html_url": "https://openspending.org/iati-budgetid/issue/no-issue",
+                "name": "no-issue"
+            },
+            "num_entries": 2
+        }
+    ],
+    "summary": {
+        "currency": {
+            "amount": "USD"
+        },
+        "amount": 3743297486.1473,
+        "num_drilldowns": 11,
+        "pagesize": 10000,
+        "pages": 1,
+        "num_entries": 2052,
+        "page": 1
+    }
+
+}
